@@ -1,0 +1,6 @@
+---
+applications:
+- name: go-hello-world
+  memory: 64M
+  instances: 1
+
